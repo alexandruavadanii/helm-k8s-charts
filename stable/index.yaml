@@ -46,7 +46,7 @@ entries:
     sources:
     - https://github.com/coreos/etcd-operator
     urls:
-    - https://github.com/iecedge/helm-k8s-charts/releases/download/etcd-operator-0.8.3/etcd-operator-0.8.3.tgz
+    - https://github.com/alexandruavadanii/helm-k8s-charts/releases/download/etcd-operator-0.8.3/etcd-operator-0.8.3.tgz
     version: 0.8.3
   fluentd-elasticsearch:
   - apiVersion: v1

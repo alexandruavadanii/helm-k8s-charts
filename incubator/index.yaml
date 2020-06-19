@@ -27,7 +27,7 @@ entries:
     - https://github.com/confluentinc/cp-docker-images
     - https://github.com/apache/kafka
     urls:
-    - https://github.com/iecedge/helm-k8s-charts/releases/download/kafka-0.13.3/kafka-0.13.3.tgz
+    - https://github.com/alexandruavadanii/helm-k8s-charts/releases/download/kafka-0.13.3/kafka-0.13.3.tgz
     version: 0.13.3
   zookeeper:
   - apiVersion: v1
@@ -48,6 +48,6 @@ entries:
     - https://github.com/apache/zookeeper
     - https://github.com/kubernetes/contrib/tree/master/statefulsets/zookeeper
     urls:
-    - https://github.com/iecedge/helm-k8s-charts/releases/download/zookeeper-1.2.0/zookeeper-1.2.0.tgz
+    - https://github.com/alexandruavadanii/helm-k8s-charts/releases/download/zookeeper-1.2.0/zookeeper-1.2.0.tgz
     version: 1.2.0
 generated: "2020-04-23T14:26:34.461287708+03:00"
